@@ -36,6 +36,8 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://j.mp/llevalsafarixmanifest</string>
 	<key>Website</key>
 	<string>http://ngsdev.org/</string>
 </dict>
