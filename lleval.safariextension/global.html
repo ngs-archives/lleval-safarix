@@ -2,7 +2,7 @@
 
 <script src="content.js"></script>
 <script>
-
-safari.application.addEventListener("contextmenu", handleContextMenu, false);
-safari.application.addEventListener("command", handleCommand, false);
+    safari.application.addEventListener("contextmenu", handleContextMenu, false);
+    safari.application.addEventListener("command", handleCommand, false);
+    safari.extension.settings.addEventListener("change", handleChangeSettings, false);
 </script>

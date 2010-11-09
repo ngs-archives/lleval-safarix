@@ -1,0 +1,8 @@
+th,td {
+    text-align:left;
+    border:1px solid #ccc;
+    padding:0.5em;
+}
+
+table{ border-collapse:collapse }
+html pre.prettyprint { border:0 }

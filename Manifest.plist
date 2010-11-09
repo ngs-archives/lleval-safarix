@@ -8,13 +8,13 @@
 			<key>CFBundleIdentifier</key>
 			<string>org.ngsdev.safarix.lleval</string>
 			<key>Developer Identifier</key>
-			<string></string>
+			<string>3Y8APYUG2G</string>
 			<key>CFBundleVersion</key>
 			<string>1.0</string>
 			<key>CFBundleShortVersionString</key>
 			<string>1.0</string>
 			<key>URL</key>
-			<string>Your-.safariextz-URL</string>
+			<string>http://github.com/ngs/lleval-safarix/zipball/v1.0</string>
 		</dict>
 	</array>
 </dict>
