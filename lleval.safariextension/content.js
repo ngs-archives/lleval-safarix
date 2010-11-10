@@ -120,6 +120,6 @@ function evalCode(l,c) {
                 alert("lleval: Request fail.");
         }
     }
-    xhr.open('GET',APIURL + "?l="+l+"&s="+encodeURIComponent(c),true)
+    xhr.open('GET',APIURL + "?l="+l+"&s="+encodeURIComponent(c).replace(/%(A0|C2)/g,""),true)
     xhr.send(null);
 }
