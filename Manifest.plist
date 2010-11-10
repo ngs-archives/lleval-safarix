@@ -10,11 +10,11 @@
 			<key>Developer Identifier</key>
 			<string>3Y8APYUG2G</string>
 			<key>CFBundleVersion</key>
-			<string>1.0</string>
+			<string>1.0.1</string>
 			<key>CFBundleShortVersionString</key>
-			<string>1.0</string>
+			<string>1.0.1</string>
 			<key>URL</key>
-			<string>http://github.com/ngs/lleval-safarix/zipball/v1.0</string>
+			<string>https://github.com/downloads/ngs/lleval-safarix/lleval.safariextz</string>
 		</dict>
 	</array>
 </dict>
