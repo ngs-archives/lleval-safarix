@@ -1,5 +1,5 @@
 #lleval-safarix
-![Icon](https://github.com/ngs/lleval-safarix/raw/master/lleval.safariextension/icon-48.png)
+![Screen](http://ngs.github.com/lleval-safarix/gfx/screen425x275.png)
 
 Safari extention for evaluate codes fromcontextual menu.
 
